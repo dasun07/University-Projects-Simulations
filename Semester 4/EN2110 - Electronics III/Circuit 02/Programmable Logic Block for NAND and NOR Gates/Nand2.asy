@@ -1,0 +1,20 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -72 96 72
+WINDOW 0 8 -72 Bottom 2
+SYMATTR Description NAND
+PIN -80 48 LEFT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 1
+PIN -80 -16 LEFT 8
+PINATTR PinName InA
+PINATTR SpiceOrder 2
+PIN -80 16 LEFT 8
+PINATTR PinName InB
+PINATTR SpiceOrder 3
+PIN -80 -48 LEFT 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 4
+PIN 96 0 RIGHT 8
+PINATTR PinName Output
+PINATTR SpiceOrder 5
