@@ -5,6 +5,7 @@ This repository contains code files, simulation results and reports of UoM - BME
 *Note: Refer to the respective folders for more details*
 
 ## Semester 07
+* * * 
 
 ### BM4151 - Bio Signal Processing
 * **Assignment 01 - Digital Filters**
@@ -22,22 +23,28 @@ This repository contains code files, simulation results and reports of UoM - BME
 
 ### EN4553 - Machine Vision
 * **Assignment 03 - Regression Models**
+* * * 
 
 
 ## Semester 06
+* * * 
 
 ### EN3240 - Embedded Systems Engineering
 * **Assignment 02 - IoT Project**
   * Part I - Weather Application
   * Part II - Weather Warning Device
 * **Assignment 03 - Code Compression/ Decompression**
+* * * 
 
 ## Semester 05
+* * * 
 
 ### EN3030 - Circuits and Systems Design
 * **Image Downsampling Processor**
+* * * 
 
 ## Semester 04
+* * * 
 
 ### BM2101 - Analysis of Physiological Systems
 * **Assignment 02 - Branched Cylinders: Dendritic Tree Approximations**
@@ -57,11 +64,14 @@ This repository contains code files, simulation results and reports of UoM - BME
 
 ### EN2570 - Digital Signal Processing
 * **FIR Bandpass Filter - Kaiser Window**
+* * * 
 
 ## Semester 03
+* * * 
 
 ### EN2040 - Random Signals and Processes
 * **RSP Simulation**
 
 ### EN2090 - Lab Practice II
 * **Analog Line Following Robot**
+* * * 
