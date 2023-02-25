@@ -1,3 +1,5 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 # Course Projects/ Simulations/ Assignments
 
 This repository contains code files, simulation results and reports of UoM - BME assignments.  
