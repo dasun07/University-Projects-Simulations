@@ -4,6 +4,23 @@ This repository contains code files, simulation results and reports of UoM - BME
 
 *Note: Refer to the respective folders for more details*
 
+## Semester 08
+
+### EN4573 - Pattern Recognition and Machine Intelligence
+* **Assignment 01**
+  * Matrix Derivatives
+  * Concentration of Measure/ High Dimensionality
+  * Multivariate Density Functions
+  * Gamma and Beta Functions
+  * Multivariate Normal Density
+  * Limit Laws, Concentration and Stochastic Convergence
+  * Central Limit Theorem
+  * Least Squares
+  * MM Algorithm
+  * Ridge Regression
+
+$~$
+
 ## Semester 07
 
 ### BM4151 - Bio Signal Processing
